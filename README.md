@@ -17,7 +17,7 @@ Python Full Stack Developer | Web Development | Django | SQL
 
 ## 👨‍💻 About Me
 
-- - 🎓 B.Tech Student at Vignan's Institute of Information Technology (VIIT)
+-  🎓 B.Tech Student at Vignan's Institute of Information Technology (VIIT)
 - 💻 Aspiring Python Full Stack Developer
 - 🌱 Learning Django, Flask, SQL, HTML, CSS, and JavaScript
 - 🚀 Building projects to improve my development skills
